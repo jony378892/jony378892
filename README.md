@@ -29,7 +29,7 @@ From building dynamic user interfaces to crafting robust backend systems, I enjo
 
 ### 📫 Contact
 
-- Portfolio: [jony-dev.vercel.com]((https://jony-dev.vercel.app/))
+- Portfolio: [jony-dev.vercel.app](https://jony-dev.vercel.app/)
 - Email: jony378892@gmail.com
 - LinkedIn: [linkedin.com/in/jony-dev](https://linkedin.com/in/jony-dev)
 
