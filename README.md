@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Jony Kanti Das
 
-## 🚀 Full Stack Developer | Building Scalable Web Solutions
+## 🚀 Frontend Developer | Building Scalable Web Solutions
 
 
 > **Results-driven Full Stack Developer** with hands-on experience building scalable, high-performance web applications. Passionate about creating secure, responsive, and user-focused solutions while continuously learning new technologies.
@@ -9,7 +9,6 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working as a **Software Engineer Intern** at Shipper Express Limited
 - 🌱 Specialized in **React.js, Next.js, Node.js, Express.js, and MongoDB**
 - 💡 Love building **E-commerce platforms** and **scalable web applications**
 - 🎯 Experienced with **enterprise-level microservices** and **performance optimization**
