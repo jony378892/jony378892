@@ -24,14 +24,14 @@
 
 ## 🚀 About Me
 
-Results-driven **Frontend / Full Stack Developer** with hands-on experience building **scalable, high-performance web applications**.  
-Focused on **clean UI, performance optimization, and secure architectures**.
+Results-driven **Frontend Developer** with strong full-stack experience, specializing in building **modern, scalable, and high-performance web interfaces**.  
+Focused on **clean UI architecture, performance optimization, accessibility, and seamless user experiences**.
 
-- Specialized in **React, Next.js, Node.js, Express, MongoDB**
-- Strong interest in **E-commerce & scalable systems**
-- Experience with **enterprise microservices**
-- Improved database response time by **40%**
-- Comfortable in **Agile & cross-functional teams**
+- Specialized in **React.js, Next.js, Tailwind CSS, JavaScript**
+- Strong understanding of **frontend performance, SEO, and responsive design**
+- Experience integrating **REST APIs, authentication, and state management**
+- Improved application performance and database response time by **40%**
+- Comfortable working in **Agile teams** and collaborating with designers, backend engineers, and product managers
 
 ---
 
