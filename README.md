@@ -1,133 +1,140 @@
-# Hi there! 👋 I'm Jony Kanti Das
+<!-- =======================
+        HERO BANNER
+======================== -->
 
-## 🚀 Frontend Developer | Building Scalable Web Solutions
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:22c55e&height=220&section=header&text=Jony%20Kanti%20Das&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    alt="banner"
+  />
+</p>
 
+<p align="center">
+  <b>Frontend / Full Stack Developer</b> <br />
+  React • Next.js • Tailwind CSS • Node.js • MongoDB
+</p>
 
-> **Results-driven Full Stack Developer** with hands-on experience building scalable, high-performance web applications. Passionate about creating secure, responsive, and user-focused solutions while continuously learning new technologies.
+<p align="center">
+  <a href="https://jony-dev.vercel.app">Portfolio</a> ·
+  <a href="https://linkedin.com/in/jony-dev">LinkedIn</a> ·
+  <a href="mailto:jony378892@gmail.com">Email</a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-- 🌱 Specialized in **React.js, Next.js, Node.js, Express.js, and MongoDB**
-- 💡 Love building **E-commerce platforms** and **scalable web applications**
-- 🎯 Experienced with **enterprise-level microservices** and **performance optimization**
-- 📈 Achieved **40% improvement** in database response time through optimization
-- 🤝 Adept at collaborating in **Agile environments** and **cross-functional teams**
+Results-driven **Frontend / Full Stack Developer** with hands-on experience building **scalable, high-performance web applications**.  
+Focused on **clean UI, performance optimization, and secure architectures**.
+
+- Specialized in **React, Next.js, Node.js, Express, MongoDB**
+- Strong interest in **E-commerce & scalable systems**
+- Experience with **enterprise microservices**
+- Improved database response time by **40%**
+- Comfortable in **Agile & cross-functional teams**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Core Skills
 
-### **Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+### Frontend
 
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
+- React.js, Next.js (App Router)
+- Tailwind CSS, Responsive UI
+- SEO optimization & accessibility
+- Client-side performance tuning
 
-### **State Management & Tools**
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### Backend
 
-### **Cloud & Deployment**
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+- Node.js, Express.js
+- MongoDB (aggregation, indexing)
+- JWT-based authentication
+- RESTful API design
+
+### Engineering
+
+- State management (Redux)
+- API integration & caching
+- Modular & scalable architecture
+- Git-based collaboration
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,nodejs,express,mongodb,redux,git,vercel,netlify&perline=6" />
+</p>
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🛒 [Forever Clothing Store](https://forever-clothing-store.vercel.app) - Full Stack E-Commerce
-**Tech Stack:** React.js • Tailwind CSS • TypeScript • MongoDB • JWT • Stripe
+### 🛒 Forever Clothing Store — Full Stack E-Commerce
 
-- 🔐 Built secure authentication & authorization system with JWT and Bcrypt
-- 🎨 Designed responsive UI with SEO-friendly URL slugs
-- 💳 Integrated Stripe payment gateway with role-based dashboards
-- ⚡ Developed custom React hooks for enhanced performance
+**React • Tailwind • MongoDB • JWT • Stripe**
 
-**[🔗 Live Demo](https://forever-clothing-store.vercel.app) | [📝 Source Code](https://github.com/jony378892/e-commerce)**
+- Secure authentication with JWT & Bcrypt
+- Stripe payment integration
+- SEO-friendly routing & dashboards
+- Performance-optimized custom hooks
 
----
-
-### 🪑 [Furniqa](https://furniqa.vercel.app) - Modern Furniture E-Commerce
-**Tech Stack:** Next.js • Tailwind CSS • TypeScript • MongoDB • JWT
-
-- 🛍️ Interactive e-commerce experience with advanced filtering
-- 👨‍💼 Comprehensive admin dashboard for inventory management  
-- 🚀 Server-side rendering with Next.js for improved SEO
-- 📱 Fully responsive design with modern UI/UX
-
-**[🔗 Live Demo](https://furniqa.vercel.app) | [📝 Source Code](https://github.com/jony378892/furniqo)**
+🔗 Live: https://forever-clothing-store.vercel.app  
+📝 Code: https://github.com/jony378892/e-commerce
 
 ---
 
-### ✈️ [The Travel Guy](https://thetravelblog.vercel.app) - Travel Blog Platform
-**Tech Stack:** React.js • Tailwind CSS • TypeScript • MongoDB • Axios
+### 🪑 Furniqa — Modern Furniture Store
 
-- 📝 Content management system for blog creation
-- 🏗️ Modular backend architecture with MVC pattern
-- ⚡ Custom hooks for UI optimization
-- 📊 Efficient CRUD operations for blogs and categories
+**Next.js • Tailwind • MongoDB**
 
-**[🔗 Live Demo](https://thetravelblog.vercel.app) | [📝 Source Code](https://github.com/jony378892/thetravelguy)**
+- Server-side rendering for SEO
+- Advanced filtering & admin dashboard
+- Clean, modern UI/UX
 
-
----
-
-## 💼 Professional Experience
-
-**Software Engineer Intern** @ Shipper Express Limited *(Jan 2025 - Mar 2025)*
-- 🔧 Developed responsive web applications using React, Next.js, and TypeScript
-- 🛠️ Implemented RESTful APIs with Express.js and MongoDB
-- 🏢 Contributed to enterprise-level microservices architecture
-- ⚡ Optimized backend performance by 40% through caching strategies
+🔗 Live: https://furniqa.vercel.app  
+📝 Code: https://github.com/jony378892/furniqo
 
 ---
 
-## 🎓 Education
+### ✈️ The Travel Guy — Blog Platform
 
-**Bachelor of Science in Mathematics**  
-Bhowal Badre Alam College, Gazipur *(2019 - Present)*
+**React • Tailwind • MongoDB**
 
----
+- CMS-style blog management
+- MVC backend structure
+- Optimized CRUD operations
 
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://jony-dev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jony-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jony378892@gmail.com)
-
-</div>
+🔗 Live: https://thetravelblog.vercel.app  
+📝 Code: https://github.com/jony378892/thetravelguy
 
 ---
 
-## 🎯 Current Goals
+## 💼 Experience
 
-- 🚀 Contributing to open-source projects
-- 📚 Learning advanced microservices architecture
-- 🔍 Exploring AI/ML integration in web applications
-- 💡 Building more scalable and innovative solutions
+**Software Engineer Intern**  
+**Shipper Express Limited** | Jan 2025 – Mar 2025
+
+- Built responsive apps with React & Next.js
+- Developed REST APIs using Express & MongoDB
+- Worked with enterprise microservices
+- Achieved **40% backend performance improvement**
 
 ---
 
-<div align="center">
+## 🎯 Current Focus
 
-### ⚡ *"Passionate about building scalable, user-focused applications and continuously learning new technologies"* ⚡
+- Open-source contributions
+- Advanced microservices architecture
+- AI/ML integration in web products
+- Building scalable, production-grade systems
 
-![Profile Views](https://komarev.com/ghpvc/?username=jony378892&color=brightgreen)
+---
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jony378892&label=Profile%20Views&color=0ea5e9&style=flat" />
+</p>
+
+<p align="center">
+  <i>“Building scalable, user-focused applications with modern web technologies.”</i>
+</p>
