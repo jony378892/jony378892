@@ -129,18 +129,6 @@ Focused on **clean UI architecture, performance optimization, accessibility, and
 
 ---
 
-## 💼 Experience
-
-**Software Engineer Intern**  
-**Shipper Express Limited** | Jan 2025 – Mar 2025
-
-- Built responsive apps with React & Next.js
-- Developed REST APIs using Express & MongoDB
-- Worked with enterprise microservices
-- Achieved **40% backend performance improvement**
-
----
-
 ## 🎯 Current Focus
 
 - Open-source contributions
