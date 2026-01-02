@@ -111,8 +111,6 @@ Focused on **clean UI architecture, performance optimization, accessibility, and
 - Advanced filtering & admin dashboard
 - Clean, modern UI/UX
 
----
-
 🔗 Live: https://homenest-property.vercel.app  
 📝 Code: https://github.com/jony378892/homenest-client
 
