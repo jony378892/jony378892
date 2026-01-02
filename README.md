@@ -103,29 +103,31 @@ Focused on **clean UI architecture, performance optimization, accessibility, and
 
 ---
 
-### 🪑 Furniqa — Modern Furniture Store
-
-**Next.js • Tailwind • MongoDB**
-
-- Server-side rendering for SEO
-- Advanced filtering & admin dashboard
-- Clean, modern UI/UX
-
-🔗 Live: https://furniqa.vercel.app  
-📝 Code: https://github.com/jony378892/furniqo
-
----
-
-### ✈️ The Travel Guy — Blog Platform
+### HomeNest - Real State Website
 
 **React • Tailwind • MongoDB**
 
-- CMS-style blog management
-- MVC backend structure
-- Optimized CRUD operations
+- User Authentication using firebase auth
+- Advanced filtering & admin dashboard
+- Clean, modern UI/UX
 
-🔗 Live: https://thetravelblog.vercel.app  
-📝 Code: https://github.com/jony378892/thetravelguy
+---
+
+🔗 Live: https://homenest-property.vercel.app  
+📝 Code: https://github.com/jony378892/homenest-client
+
+---
+
+### ✈️ Fabrico — Garments Industry Management Platform
+
+**React • Tailwind • MongoDB**
+
+- Modern platform for managing garment production system from production to shipment
+- Multi role features in both frontend and backend
+- Secured by firebase authentication with multi layer
+
+🔗 Live: https://fabricoo.vercel.app  
+📝 Code: https://github.com/jony378892/fabrico-client
 
 ---
 
